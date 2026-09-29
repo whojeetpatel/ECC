@@ -997,6 +997,7 @@
       "description": "Document processing, conversion, and translation skills.",
       "paths": [
         "skills/nutrient-document-processing",
+        "skills/transcript-to-notes",
         "skills/visa-doc-translate"
       ],
       "targets": [
